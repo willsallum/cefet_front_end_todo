@@ -2,7 +2,7 @@
 
 Gerencie aquelas tarefas que você quer ~~não~~ fazer. Baixe o [código seminal][seminal].
 
-![Resultado final da atividade](https://fegemo.github.io/cefet-front-end-large-assets/apng/todo-resultado-final.png)
+![Resultado final da atividade](https://willsallum.github.io/cefet_front_end_large_assets/apng/todo-resultado-final.png)
 
 ## Atividade
 
@@ -34,7 +34,7 @@ não se esqueça de remover todos os filhos que estiverem lá.
 
 Resultado parcial:
 
-![](https://fegemo.github.io/cefet-front-end-large-assets/apng/todo-resultado-exercicio-1.png)
+![](https://willsallum.github.io/cefet_front_end_large_assets/apng/todo-resultado-exercicio-1.png)
 
 ### Exercício 2: Incluir uma nova tarefa
 
@@ -64,7 +64,7 @@ elemento.focus();
 
 Resultado parcial:
 
-![](https://fegemo.github.io/cefet-front-end-large-assets/apng/todo-resultado-exercicio-2.png)
+![](https://willsallum.github.io/cefet_front_end_large_assets/apng/todo-resultado-exercicio-2.png)
 
 ### Desafio 1: Mostrar as novas tarefas no início da lista
 
@@ -167,8 +167,8 @@ quais já existem regras CSS de estilização).
    botaoEl.addEventListener('click', fazAlgumaCoisa);
    ```
   
-[criando-elementos-dinamicamente]: https://fegemo.github.io/cefet-front-end/classes/js4/#criando-elementos-html-dinamicamente
-[criando-objetos]: https://fegemo.github.io/cefet-front-end/classes/js4/#usando-objetos-em-javascript
-[array-push]: https://fegemo.github.io/cefet-front-end/classes/js2/#metodos-de-arrays
-[classes]: https://fegemo.github.io/cefet-front-end/classes/js2/#colocando-removendo-classes
-[seminal]: https://github.com/fegemo/cefet-front-end-todo/archive/refs/heads/main.zip
+[criando-elementos-dinamicamente]: https://willsallum.github.io/cefet_front_end/classes/js4/#criando-elementos-html-dinamicamente
+[criando-objetos]: https://willsallum.github.io/cefet_front_end/classes/js4/#usando-objetos-em-javascript
+[array-push]: https://willsallum.github.io/cefet_front_end/classes/js2/#metodos-de-arrays
+[classes]: https://willsallum.github.io/cefet_front_end/classes/js2/#colocando-removendo-classes
+[seminal]: https://willsallum.github.io/cefet_front_end_todo/archive/refs/heads/main.zip
