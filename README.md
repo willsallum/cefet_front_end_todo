@@ -168,7 +168,7 @@ quais já existem regras CSS de estilização).
    ```
   
 [criando-elementos-dinamicamente]: https://willsallum.github.io/cefet_front_end/classes/js4/#criando-e-removendo-elementos-na-p%C3%A1gina
-[criando-objetos]: https://willsallum.github.io/cefet_front_end/classes/js4/#usando-objetos-em-javascript
+[criando-objetos]: https://willsallum.github.io/cefet_front_end/classes/js4/#saquinhos-de-propriedades
 [array-push]: https://willsallum.github.io/cefet_front_end/classes/js2/#metodos-de-arrays
-[classes]: https://willsallum.github.io/cefet_front_end/classes/js2/#colocando-removendo-classes
+[classes]: https://willsallum.github.io/cefet_front_end/classes/js2/#colocando-removendo-classe
 [seminal]: https://github.com/willsallum/cefet_front_end_todo/archive/refs/heads/main.zip
