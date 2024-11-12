@@ -167,7 +167,7 @@ quais já existem regras CSS de estilização).
    botaoEl.addEventListener('click', fazAlgumaCoisa);
    ```
   
-[criando-elementos-dinamicamente]: https://willsallum.github.io/cefet_front_end/classes/js4/#criando-elementos-html-dinamicamente
+[criando-elementos-dinamicamente]: https://willsallum.github.io/cefet_front_end/classes/js4/#criando-e-removendo-elementos-na-p%C3%A1gina
 [criando-objetos]: https://willsallum.github.io/cefet_front_end/classes/js4/#usando-objetos-em-javascript
 [array-push]: https://willsallum.github.io/cefet_front_end/classes/js2/#metodos-de-arrays
 [classes]: https://willsallum.github.io/cefet_front_end/classes/js2/#colocando-removendo-classes
