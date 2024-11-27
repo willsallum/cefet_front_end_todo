@@ -40,7 +40,7 @@ Resultado parcial:
 
 Quando o usuário clicar no botão `#incluir-nova-tarefa`, (a) crie um
 novo objeto representando a nova tarefa (veja no FAQ), (b) coloque-a ao
-final do vetor `tarefas` (veja no FAQ) e, então, (c) chame a função que
+final do vetor `tarefas` (veja no [FAQ](./README.md#faq)) e, então, (c) chame a função que
 `insereTarefaNaPagina` passando o objeto da nova tarefa como argumento.
 
 O `nome` da tarefa é o que o usuário digitou no campo, a `categoria` padrão é
@@ -168,7 +168,7 @@ quais já existem regras CSS de estilização).
    ```
   
 [criando-elementos-dinamicamente]: https://willsallum.github.io/cefet_front_end/classes/js4/#criando-e-removendo-elementos-na-p%C3%A1gina
-[criando-objetos]: https://willsallum.github.io/cefet_front_end/classes/js4/#saquinhos-de-propriedades
-[array-push]: https://willsallum.github.io/cefet_front_end/classes/js2/#metodos-de-arrays
+[criando-objetos]: https://willsallum.github.io/cefet_front_end/classes/js4/#instanciando-um-object-usando-new
+[array-push]: https://willsallum.github.io/cefet_front_end/classes/js0/#usando-vetores
 [classes]: https://willsallum.github.io/cefet_front_end/classes/js2/#colocando-removendo-classe
 [seminal]: https://github.com/willsallum/cefet_front_end_todo/archive/refs/heads/main.zip
