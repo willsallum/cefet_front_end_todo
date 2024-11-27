@@ -20,7 +20,7 @@ representa uma tarefa. Ele já possui duas tarefas: "Comprar leite" e
 Neste exercício, você deve criar uma função `insereTarefaNaPagina` (no
 singular) que, recebe por parâmetro **01 objeto** com uma tarefa e
 insere 01 elemento HTML `<li>` na lista de tarefas
-(_i.e._, `ul#lista-tarefas`). Veja o FAQ sobre como inserir elementos HTML
+(_i.e._, `ul#lista-tarefas`). Veja o [FAQ](./README.MD#faq) sobre como inserir elementos HTML
 dinamicamente na página. Ele **deve ser inserido ao final**.
 
 O `<li>` que representa a tarefa deve ter uma classe `item-tarefa` para
