@@ -171,4 +171,4 @@ quais já existem regras CSS de estilização).
 [criando-objetos]: https://willsallum.github.io/cefet_front_end/classes/js4/#instanciando-um-object-usando-new
 [array-push]: https://willsallum.github.io/cefet_front_end/classes/js0/#usando-vetores
 [classes]: https://willsallum.github.io/cefet_front_end/classes/js2/#colocando-removendo-classe
-[seminal]: https://github.com/willsallum/cefet_front_end_todo/archive/refs/heads/main.zip
+[seminal]: https://github.com/willsallum/cefet_front_end_todo/archive/main.zip
