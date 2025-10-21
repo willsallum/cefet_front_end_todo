@@ -2,7 +2,7 @@
 
 Armazene e recupere as tarefas que você quer ~~não~~ fazer. Baixe o [código seminal][seminal].
 
-![Resultado final da atividade](docs/resultado-final.png)
+![Resultado final da atividade](docs/todo-resultado-final.png)
 
 ## Atividade
 
