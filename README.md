@@ -2,7 +2,7 @@
 
 Armazene e recupere as tarefas que você quer ~~não~~ fazer. Baixe o [código seminal][seminal].
 
-![Resultado final da atividade](docs/resultado-final.png)
+![Resultado final da atividade](docs/todo-resultado-final.png)
 
 ## Atividade
 
@@ -162,7 +162,7 @@ incluir a classe `.minimizado` na `#marca` ou não.
 
    function fazAlgumaCoisa() {
 
-[local-storage]: https://fegemo.github.io/cefet-front-end/classes/js5/#local-storage
+[local-storage]: https://willsallum.github.io/cefet_front_end/classes/js5/#local-storage
 [session-storage]: https://fegemo.github.io/cefet-front-end/classes/js5/#session-storage
 [formato-de-armazenamento]: https://fegemo.github.io/cefet-front-end/classes/js5/#formato-de-armazenamento
 [representando-objetos-em-strings]: https://fegemo.github.io/cefet-front-end/classes/js5/#representando-objetos-em-strings
